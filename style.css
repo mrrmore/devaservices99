@@ -118,7 +118,7 @@ p{
 }
 .title::after{
     content: '';
-    background: #ff523b;
+    background: #FFC0CB;
     width: 80px;
     height: 5px;
     border-radius: 5px;
